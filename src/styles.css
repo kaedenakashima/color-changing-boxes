@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.board{
+  display:flex;
+  flex-wrap:wrap;
+}
+.square {
+   background-color: rgba(100, 100, 100, 1);
+  width:25%;
+  height:200px;
+}
